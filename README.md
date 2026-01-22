@@ -16,14 +16,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HongJunPyo0222/leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/HongJunPyo0222/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HongJunPyo0222/leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/HongJunPyo0222/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HongJunPyo0222/leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/HongJunPyo0222/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Database
 |  |
 | ------- |
