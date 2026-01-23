@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HongJunPyo0222/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HongJunPyo0222/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/HongJunPyo0222/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HongJunPyo0222/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HongJunPyo0222/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/HongJunPyo0222/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/HongJunPyo0222/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HongJunPyo0222/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
