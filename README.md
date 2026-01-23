@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HongJunPyo0222/leetcode/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/HongJunPyo0222/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/HongJunPyo0222/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1732-find-the-highest-altitude](https://github.com/HongJunPyo0222/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HongJunPyo0222/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/HongJunPyo0222/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/HongJunPyo0222/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
