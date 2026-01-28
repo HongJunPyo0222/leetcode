@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/HongJunPyo0222/leetcode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/HongJunPyo0222/leetcode/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/HongJunPyo0222/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/HongJunPyo0222/leetcode/tree/master/1667-fix-names-in-a-table) |
