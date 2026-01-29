@@ -83,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HongJunPyo0222/leetcode/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HongJunPyo0222/leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HongJunPyo0222/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HongJunPyo0222/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
