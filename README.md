@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HongJunPyo0222/leetcode/tree/master/0001-two-sum) |
+| [0120-triangle](https://github.com/HongJunPyo0222/leetcode/tree/master/0120-triangle) |
 | [0283-move-zeroes](https://github.com/HongJunPyo0222/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/HongJunPyo0222/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HongJunPyo0222/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/HongJunPyo0222/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HongJunPyo0222/leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/HongJunPyo0222/leetcode/tree/master/0120-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/HongJunPyo0222/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
