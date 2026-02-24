@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HongJunPyo0222/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/HongJunPyo0222/leetcode/tree/master/0035-search-insert-position) |
 | [0120-triangle](https://github.com/HongJunPyo0222/leetcode/tree/master/0120-triangle) |
 | [0283-move-zeroes](https://github.com/HongJunPyo0222/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HongJunPyo0222/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HongJunPyo0222/leetcode/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/HongJunPyo0222/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
