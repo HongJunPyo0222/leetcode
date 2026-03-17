@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HongJunPyo0222/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/HongJunPyo0222/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/HongJunPyo0222/leetcode/tree/master/0724-find-pivot-index) |
+| [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/HongJunPyo0222/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HongJunPyo0222/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HongJunPyo0222/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/HongJunPyo0222/leetcode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HongJunPyo0222/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/HongJunPyo0222/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Counting
 |  |
