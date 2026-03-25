@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/HongJunPyo0222/leetcode/tree/master/0058-length-of-last-word) |
 | [1657-determine-if-two-strings-are-close](https://github.com/HongJunPyo0222/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HongJunPyo0222/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/HongJunPyo0222/leetcode/tree/master/1768-merge-strings-alternately) |
