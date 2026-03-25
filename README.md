@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/HongJunPyo0222/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HongJunPyo0222/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3546-equal-sum-grid-partition-i](https://github.com/HongJunPyo0222/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/HongJunPyo0222/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/HongJunPyo0222/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3546-equal-sum-grid-partition-i](https://github.com/HongJunPyo0222/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
 | ------- |
@@ -185,8 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3546-equal-sum-grid-partition-i](https://github.com/HongJunPyo0222/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Counting
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/HongJunPyo0222/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/HongJunPyo0222/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
