@@ -1,21 +1,10 @@
-import itertools
-import math
+from typing import List
 
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        rtype = []
-        tmp_list = [n for n in range(len(nums))]
-        print(tmp_list)
-        for a, b in itertools.combinations(tmp_list, 2):
-            if nums[a] + nums[b] == target:
-                rtype.append(a)
-                rtype.append(b)
-        return rtype
-        
-
-        
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        num_map = {}
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in num_map:
+                return [num_map[complement], i]
+            num_map[num] = i
