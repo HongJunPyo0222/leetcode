@@ -14,8 +14,7 @@ class Solution(object):
         """
 
 
-        countL = 0
-        countR = 0
+       
         count_ = 0
         cur = 0
 
