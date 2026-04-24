@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HongJunPyo0222/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/HongJunPyo0222/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/HongJunPyo0222/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/HongJunPyo0222/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/HongJunPyo0222/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2833-furthest-point-from-origin](https://github.com/HongJunPyo0222/leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Enumeration
 |  |
 | ------- |
