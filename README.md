@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HongJunPyo0222/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/HongJunPyo0222/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/HongJunPyo0222/leetcode/tree/master/0048-rotate-image) |
 | [0120-triangle](https://github.com/HongJunPyo0222/leetcode/tree/master/0120-triangle) |
 | [0283-move-zeroes](https://github.com/HongJunPyo0222/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/HongJunPyo0222/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HongJunPyo0222/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HongJunPyo0222/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HongJunPyo0222/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/HongJunPyo0222/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HongJunPyo0222/leetcode/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3546-equal-sum-grid-partition-i](https://github.com/HongJunPyo0222/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
