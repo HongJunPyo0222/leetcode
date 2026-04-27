@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/HongJunPyo0222/leetcode/tree/master/0724-find-pivot-index) |
 | [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/HongJunPyo0222/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HongJunPyo0222/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HongJunPyo0222/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1732-find-the-highest-altitude](https://github.com/HongJunPyo0222/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/HongJunPyo0222/leetcode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HongJunPyo0222/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/HongJunPyo0222/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/HongJunPyo0222/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HongJunPyo0222/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/HongJunPyo0222/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/HongJunPyo0222/leetcode/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3546-equal-sum-grid-partition-i](https://github.com/HongJunPyo0222/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Counting
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/HongJunPyo0222/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
