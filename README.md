@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/HongJunPyo0222/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HongJunPyo0222/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HongJunPyo0222/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/HongJunPyo0222/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HongJunPyo0222/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/HongJunPyo0222/leetcode/tree/master/0120-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/HongJunPyo0222/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HongJunPyo0222/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/HongJunPyo0222/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/HongJunPyo0222/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/HongJunPyo0222/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HongJunPyo0222/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/HongJunPyo0222/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HongJunPyo0222/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HongJunPyo0222/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
 |  |
 | ------- |
