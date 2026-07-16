@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HongJunPyo0222/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/HongJunPyo0222/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/HongJunPyo0222/leetcode/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/HongJunPyo0222/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/HongJunPyo0222/leetcode/tree/master/0120-triangle) |
 | [0283-move-zeroes](https://github.com/HongJunPyo0222/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/HongJunPyo0222/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HongJunPyo0222/leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/HongJunPyo0222/leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HongJunPyo0222/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
