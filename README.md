@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HongJunPyo0222/leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/HongJunPyo0222/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/HongJunPyo0222/leetcode/tree/master/0120-triangle) |
+| [0200-number-of-islands](https://github.com/HongJunPyo0222/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HongJunPyo0222/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/HongJunPyo0222/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/HongJunPyo0222/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HongJunPyo0222/leetcode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/HongJunPyo0222/leetcode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HongJunPyo0222/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HongJunPyo0222/leetcode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/HongJunPyo0222/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HongJunPyo0222/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HongJunPyo0222/leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/HongJunPyo0222/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/HongJunPyo0222/leetcode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HongJunPyo0222/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HongJunPyo0222/leetcode/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HongJunPyo0222/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Backtracking
 |  |
